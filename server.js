@@ -70,7 +70,7 @@ server.get("/", (request, response) => {
       <link rel="stylesheet" href="/style.css">
     </head>
     <body>
-      <h1>Hello World, it's ${year}!</h>
+      <h1>Hello World, it's ${year}!</h1>
     </body>
   </html>
   `);
